@@ -405,7 +405,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mySprite: {fileID: 1483274827}
   maxSpeed: 3
-  moveSpeed: 10
+  moveSpeed: 20
   jumpForce: 10
   groundCheck: {fileID: 1483274828}
   groundLayers:
